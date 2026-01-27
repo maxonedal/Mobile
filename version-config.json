@@ -1,17 +1,9 @@
 {
   "android": {
-    "currentVersion": "10.0.6",
-    "minimumVersion": "10.0.6",
+    "currentVersion": "6.0.0",
+    "minimumVersion": "6.0.0",
     "downloadUrl": "https://raw.githubusercontent.com/maxonedal/Mobile/main/HuManEDGE.ESS.apk",
-    "releaseNotes": "Latest version - Bug fixes and improvements",
+    "releaseNotes": "Latest version",
     "forceUpdate": false
-  },
-  "ios": {
-    "currentVersion": "10.0.6",
-    "minimumVersion": "10.0.6",
-    "downloadUrl": "https://apps.apple.com/us/app/humanedge/id6752282344",
-    "releaseNotes": "Latest iOS version",
-    "forceUpdate": false
-  },
-  "lastUpdated": "2025-01-27T00:00:00Z"
+  }
 }
