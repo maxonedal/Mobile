@@ -1,7 +1,7 @@
 {
   "android": {
-    "currentVersion": "6.0.0",
-    "minimumVersion": "6.0.0",
+    "currentVersion": "10.0.6",
+    "minimumVersion": "10.0.6",
     "downloadUrl": "https://raw.githubusercontent.com/maxonedal/Mobile/main/HuManEDGE.ESS.apk",
     "releaseNotes": "Latest version",
     "forceUpdate": false
