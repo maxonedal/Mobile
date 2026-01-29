@@ -4,6 +4,6 @@
     "minimumVersion": "10.0.7",
     "downloadUrl": "https://raw.githubusercontent.com/maxonedal/Mobile/main/HuManEDGE.ESS.apk",
     "releaseNotes": "Latest version",
-    "forceUpdate": false
+    "forceUpdate": true
   }
 }
