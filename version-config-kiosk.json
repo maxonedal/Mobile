@@ -1,11 +1,11 @@
 {
   "android": {
-    "currentVersion": "10.0.12",
+    "currentVersion": "10.0.13",
     "minimumVersion": "6.0.0",
     "downloadUrl": "https://raw.githubusercontent.com/maxonedal/Mobile/main/HuManEDGE.Kiosk.apk",
-    "releaseNotes": "Version 10.0.12 - Build kiosk-24285-b.1-feature",
+    "releaseNotes": "Version 10.0.13 - Build kiosk-24287-b.1-feature",
     "forceUpdate": false
   },
-  "lastUpdated": "2026-08-26T23:54:43Z",
-  "buildNumber": "kiosk-24285-b.1-feature"
+  "lastUpdated": "2026-08-27T00:14:26Z",
+  "buildNumber": "kiosk-24287-b.1-feature"
 }
