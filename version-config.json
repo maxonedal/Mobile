@@ -1,9 +1,9 @@
 {
   "android": {
-    "currentVersion": "10.0.509",
+    "currentVersion": "10.0.510",
     "minimumVersion": "6.0.0",
     "downloadUrl": "https://raw.githubusercontent.com/maxonedal/Mobile/main/HuManEDGE.ESS.apk",
-    "releaseNotes": "Version 10.0.509 - Build ess-25102-b.1-release",
+    "releaseNotes": "Version 10.0.510 - Build ess-25104-b.1-feature",
     "forceUpdate": false
   },
   "ios": {
@@ -13,6 +13,6 @@
     "releaseNotes": "Latest iOS version",
     "forceUpdate": false
   },
-  "lastUpdated": "2026-10-13T07:21:23Z",
-  "buildNumber": "ess-25102-b.1-release"
+  "lastUpdated": "2026-10-13T09:05:32Z",
+  "buildNumber": "ess-25104-b.1-feature"
 }
